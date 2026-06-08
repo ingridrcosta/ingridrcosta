@@ -1,3 +1,5 @@
+# PT-BR
+
 # Olá! 👋
 
 Me chamo **Ingrid Ruth**, sou profissional de T.I. com mais de 5 anos de trajetória. Já atuei em áreas de telecom, suporte a hardware e atualmente estou na esfera da Segurança da Informação. 
@@ -21,4 +23,34 @@ Estou utilizando o GitHub como meu *runbook* pessoal. Aqui você encontrará:
 ### 📬 Vamos nos conectar!
 Disponibilizo abaixo meu LinkedIn e e-mail, caso deseje trocar uma ideia ou me contatar:
 * 💼 **LinkedIn:** [www.linkedin.com/in/ir-costa/]
+* 📧 **E-mail:** (mailto:ingrid.ruth2@outlook.com)
+
+
+==========================================================================================================================================================================
+
+# EN-US
+
+# Hello there! 👋
+
+My name is **Ingrid Ruth**, and I am an IT professional with over 5 years of experience. I have worked in telecom, hardware support, and I am currently working in the Information Security sphere. 
+
+Throughout this journey, I discovered that my true passion lies in **cloud infrastructure**, with a special focus on Microsoft environments. ☁️
+
+### 🚀 My Cloud Journey
+I am diving headfirst into the Cloud space through Azure, an environment I have become much more familiar with compared to AWS. 
+
+Currently, I hold the following foundational certifications:
+* **Microsoft Azure Fundamentals (AZ-900)** 🟦
+* **AWS Certified Cloud Practitioner (CLF-C02)** 🟧
+
+### 🗡️ My Runbook & Lab (Hyrule)
+I am using GitHub as my personal *runbook*. Here you will find:
+* Studies and automations tested in my home lab (affectionately named **Hyrule** 🛡️).
+* Troubleshooting documentation based on real-world solutions from my daily professional work.
+
+💡 *If you like any idea or script, feel free to clone it. I hope it helps you!*
+
+### 📬 Let's connect!
+Feel free to reach out to me via LinkedIn or email if you want to chat or exchange ideas:
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/ir-costa/]
 * 📧 **E-mail:** (mailto:ingrid.ruth2@outlook.com)
