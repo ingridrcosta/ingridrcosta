@@ -52,5 +52,5 @@ I am using GitHub as my personal *runbook*. Here you will find:
 
 ### 📬 Let's connect!
 Feel free to reach out to me via LinkedIn or email if you want to chat or exchange ideas:
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/ir-costa/]
+* 💼 **LinkedIn:** [Ingridrcosta](https://www.linkedin.com/in/ir-costa/)
 * 📧 **E-mail:** (mailto:ingrid.ruth2@outlook.com)
