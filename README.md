@@ -22,7 +22,7 @@ Estou utilizando o GitHub como meu *runbook* pessoal. Aqui você encontrará:
 
 ### 📬 Vamos nos conectar!
 Disponibilizo abaixo meu LinkedIn e e-mail, caso deseje trocar uma ideia ou me contatar:
-* 💼 **LinkedIn:** [www.linkedin.com/in/ir-costa/]
+* 💼 **LinkedIn:** [Ingridrcosta](www.linkedin.com/in/ir-costa/)
 * 📧 **E-mail:** (mailto:ingrid.ruth2@outlook.com)
 
 
